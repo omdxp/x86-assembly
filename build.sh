@@ -9,3 +9,4 @@ nasm -f bin 07.hardware.asm -o 07.hardware.bin
 nasm -f bin 08.math.asm -o 08.math.bin
 nasm -f bin 09.conditions.asm -o 09.conditions.bin
 nasm -f bin 10.lodsb.asm -o 10.lodsb.bin
+nasm -f bin 11.stosb.asm -o 11.stosb.bin
